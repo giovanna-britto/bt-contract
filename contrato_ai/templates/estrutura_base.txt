@@ -1,0 +1,18 @@
+PRIVATE PURCHASE AGREEMENT
+
+This Agreement is made between {{ vendedor }} (Seller) and {{ comprador }} (Buyer).
+
+Item Sold: {{ objeto }}  
+Total Value: {{ valor }}
+
+{{ clausulas }}
+
+Signed in {{ local_assinatura }} on {{ data_assinatura }}
+
+Signatures:
+
+_______________________________  
+{{ comprador }} (Buyer)
+
+_______________________________  
+{{ vendedor }} (Seller)
